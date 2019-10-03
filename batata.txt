@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-esse arquivo foi modificado no ramo master
-=======
-batata com carne é muito bom
->>>>>>> teste
+salada de batata com maionese é muito bom
